@@ -1,0 +1,10 @@
+Step,Percentage
+Gross Earnings Base,100.00%
+x WorkLife Adjustment,80.30%
+x (1 - Unemployment Factor),97.00%
+= Adjusted Base Earnings,77.89%
+x (1 - Tax Liability),85.00%
+x (1 + Fringe Benefit),131.00%
+x (1 - Personal Maintenance/Consumption),100.00% (N/A)
+= Fringe Benefits/Tax Adjusted Earnings Base,102.04%
+AEF (Adjusted Earnings Factor),90.35%
